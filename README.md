@@ -1,3 +1,3 @@
 # Sonu's Resume
 
-All versions of my **resume** are archived here.
+All old versions of my **resume** are [archived here](https://github.com/flyingsonu122/resume/tree/main).
