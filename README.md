@@ -1,13 +1,5 @@
 # Sonu's Resume
 
 
-
-
-
-
-
-
-
-https://resume.sonukushwaha.com
-
+https://iamsonukushwaha.github.io/resume/
 
